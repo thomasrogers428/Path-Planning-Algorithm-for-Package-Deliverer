@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>deliverer</name>
+  <version>0.0.0</version>
+  <description>The deliverer package</description>
+  <maintainer email="sjle4108@gmail.com">class</maintainer>
+  <license>None</license>
+  <author email="thomas.w.rogers.23@dartmouth.edu">Thomas Rogers</author>
+  <author email="brandon.y.feng.22@dartmouth.edu">Brandon Feng</author>
+  <author email="sjlee4108@gmail.com">Seungjae Lee</author>
+  <buildtool_depend>catkin</buildtool_depend>
+  <export>
+    <!-- Other tools can request additional information be placed here -->
+  </export>
+</package>
